@@ -1,0 +1,14 @@
+transposition(board,index,direction);
+swap board;
+
+
+findPathdirection(board,index);
+return "left";
+
+
+findIndex(box, target);
+return [x,y];
+
+
+shuffleArray(array);
+assignBoard(board);
